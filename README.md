@@ -14,5 +14,5 @@
 Nome | Github  | Email
 ------------ | ------------- | -------------
 Amanda Farias | @amandafarias | amanda.santos@grupozap.com
-Cassio Bartolomei | @    | cassio.silveira@grupozap.com
+Cassio Bartolomei | @Bartolomei   | cassio.silveira@grupozap.com
 Simone Beltrame | @   | simone.beltrame@grupozap.com
