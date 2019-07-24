@@ -2,6 +2,8 @@
 
 # Team Inc Vendas
 
+## Tribe Incorporadoras
+
 ## Objetivo
 
 *Responsáveis por melhorar a experiência e gestão de vendas das incorporadoras.*.
